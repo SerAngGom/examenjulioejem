@@ -1,0 +1,52 @@
+[
+    {
+        "owpsTypes":
+        {
+            "flies": 4,
+            "beetles": 0,
+            "moths": 0
+        },
+        "owpsSpeed": 25,
+        "appearanceRate": 2500
+    },
+    {
+        "owpsTypes":
+        {
+            "flies": 8,
+            "beetles": 0,
+            "moths": 0
+        },
+        "owpsSpeed": 25,
+        "appearanceRate": 2100
+    },
+    {
+        "owpsTypes":
+        {
+            "flies": 8,
+            "beetles": 0,
+            "moths": 0
+        },
+        "owpsSpeed": 30,
+        "appearanceRate": 1900
+    },
+    {
+        "owpsTypes":
+        {
+            "flies": 11,
+            "beetles": 0,
+            "moths": 0
+        },
+        "owpsSpeed": 30,
+        "appearanceRate": 1900
+    },
+    {
+        "owpsTypes":
+        {
+            "flies": 11,
+            "beetles": 0,
+            "moths": 0
+        },
+        "owpsSpeed": 30,
+        "appearanceRate": 1700
+    }
+]

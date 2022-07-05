@@ -1,0 +1,10 @@
+#gameArea {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+body {
+    background-color: rgba(30, 36, 36, 0.482);
+}
